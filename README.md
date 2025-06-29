@@ -43,34 +43,7 @@ Our goal is to **protect dreams before they disappear** and reduce gender-based 
 
 ---
 
-## 💡 Tech Stack
 
-| Layer             | Technology                                                                 |
-|------------------|----------------------------------------------------------------------------|
-| Frontend         | React.js, Tailwind CSS                                                     |
-| Backend          | Node.js (routing),                                    |
-| AI Integration   | Gemini API (Eklavya Bot),                               |
-| Authentication   | Firebase Authentication                                                    |
-| Database         | Firebase Realtime DB, LocalStorage                                         |
-| External APIs    | Government Law APIs, YouTube Data API                                      |
-
----
-
-## 📌 Features Overview
-
-| Feature                      | Description                                                                 |
-|-----------------------------|-----------------------------------------------------------------------------|
-| 👧 Girls Portal              | Educational milestones, achievements, chatbots, access to mentorship       |
-| 🙋 Volunteer Portal         | Leaderboard, activity logs, connect with panchayats                        |
-| 🏛️ Panchayat Portal         | Status tracking, student updates, awareness campaigns                      |
-| 💬 Sakhi Chatbot            | Real-time bilingual mental health/legal support                            |
-| 🤖 Eklavya Chatbot          | Gemini-powered support for girl child issues                               |
-| 📚 Resource Portal          | Curated content on education, laws, career paths                           |
-| 🎓 Mentor Connect           | Students connect with mentors for guidance                                 |
-| 📈 Analytics Dashboard      | Admin panel for data export, visualizations, and user management           |
-| 💰 Drishti Fund             | Donation module to fund local educational drives                           |
-
----
 
 ## 🧩 Process Flow
 
